@@ -19,7 +19,8 @@ Check this post: [How to build Elasticsearch Vietnamese Analysis Plugin](http://
 ## Compatible Versions
 | Vietnamese Analysis Plugin | Elasticsearch |
 | -------------------------- | ------------- |
-| master                     | 6.5.3         |
+| master                     | 7.0.0         |
+| 6.5.3                      | 6.5.3         |
 | 5.6.5                      | 5.6.5         |
 | 5.4.1                      | 5.4.1         |
 | 5.3.1                      | 5.3.1         |
